@@ -80,6 +80,9 @@ function App() {
         </Col>
       </Row>
       </div>
+      <div className="text-center mt-5 footer">
+        <span className='dev'>Developed by:</span> <a href="https://www.facebook.com/masudx08" alt='HeroCoderr'>Masud Rana</a>
+      </div>
     </div>
   );
 }

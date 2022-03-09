@@ -10,3 +10,10 @@
 input{
   width: 100%
 }
+
+.footer a{
+  text-decoration: none;
+}
+.dev{
+  font-weight: 500;
+}
