@@ -32,7 +32,7 @@ function App() {
       <Row>
         <Col xs={3}>
           <ListGroup>
-          <ListGroup.Item variant="info">Issues</ListGroup.Item>
+          <ListGroup.Item variant="info">Period</ListGroup.Item>
           <ListGroup.Item variant="danger">1</ListGroup.Item>
           <ListGroup.Item variant="warning">2</ListGroup.Item>
           <ListGroup.Item variant="info">3</ListGroup.Item>
