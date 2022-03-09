@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       <div className='container'>
         <div>
-          <h3 className='mb-4'>Calculate Your Amount</h3>
+          <h3 className='mb-4'>Calculate Your Trading Amount</h3>
           <p className='mb-4'><b className='text-danger'>Note:</b> There is not included any trading fees. So, Win and Profit Amount would be vary with platform</p>
         </div>
       <InputGroup className="mb-4">
